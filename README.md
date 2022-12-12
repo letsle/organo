@@ -4,7 +4,7 @@
 
 
 
-## [👉🏽Clique aqui para acessar a página](https://letsle.github.io/organo/)
+## [👉🏽Clique aqui para acessar a página](https://organo-tau-nine.vercel.app/)
 
 
 ![preview](./public/imagens/projeto.png)
